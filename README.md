@@ -8,6 +8,10 @@ PNG, JPG, JPEG i gibi formatları destekler.
 # İnstall
 pip3 install PIL
 
+
+# Screen Shot's
+
+
 # Note
 
 Program "Libre writer" or "Microsoft Word"
