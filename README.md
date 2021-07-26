@@ -11,8 +11,8 @@ pip3 install PIL
 
 # Screen Shot's
 
-![alt text](https://github.com/ugurkan-coder00/ASCOO-ART/blob/main/image.png?raw=true)
-![alt text](https://github.com/ugurkan-coder00/ASCOO-ART/blob/main/ss.png?raw=true)
+![alt text](https://github.com/ugurkan-coder00/ASCII-ART/blob/main/image.png?raw=true)
+![alt text](https://github.com/ugurkan-coder00/ASCII-ART/blob/main/ss.png?raw=true)
 
 
 # Note
